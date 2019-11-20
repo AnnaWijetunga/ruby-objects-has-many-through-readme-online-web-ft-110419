@@ -23,5 +23,5 @@ class Customer
       meal.customer == self
       # customer looks at all meals, selects the ones that belong to them
     end
- end
+  end
 end
