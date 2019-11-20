@@ -21,8 +21,7 @@ class Customer
   def meals
     Meal.all.select do |meal|
       meal.customer == self
+      # customer looks at all meals, selects the ones that belong to them
     end
  end
-  
-  
 end
