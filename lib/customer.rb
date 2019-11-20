@@ -18,4 +18,6 @@ class Customer
     Meal.new(waiter, self, total, tip) # self is customer
   end
   
+  
+  
 end
