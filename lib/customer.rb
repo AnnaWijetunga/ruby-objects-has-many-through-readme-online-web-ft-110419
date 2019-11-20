@@ -24,4 +24,7 @@ class Customer
       # customer looks at all meals, selects the ones that belong to them
     end
   end
+  
+  
+  
 end
